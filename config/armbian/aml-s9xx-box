@@ -6,8 +6,8 @@ BASE_ARCH="arm64"
 BASE_IMAGE_ENLARGEROOT=10500
 BASE_IMAGE_RESIZEROOT=600
 #BASE_ADD_USER="yes"
-#BASE_USER="pi"
-#BASE_USER_PASSWORD="raspberry"
+#BASE_USER="root"
+#BASE_USER_PASSWORD="1234"
 
 # Image source
 DOWNLOAD_URL_CHECKSUM="https://mirror-eu-de1.armbian.airframes.io/dl/aml-s9xx-box/archive/Armbian_23.02.2_Aml-s9xx-box_bullseye_current_6.1.11.img.xz.sha"
