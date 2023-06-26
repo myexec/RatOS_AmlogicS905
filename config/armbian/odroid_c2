@@ -3,6 +3,8 @@
 # shellcheck enable=require-variable-braces
 
 BASE_ARCH="arm64"
+BASE_IMAGE_ENLARGEROOT=10500
+BASE_IMAGE_RESIZEROOT=600
 BASE_ADD_USER="yes"
 BASE_USER="pi"
 BASE_USER_PASSWORD="raspberry"
