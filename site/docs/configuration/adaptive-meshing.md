@@ -52,7 +52,7 @@ START_PRINT EXTRUDER_TEMP=[extruder0_temperature] BED_TEMP=[bed0_temperature] X0
 
 ### Cura
 
-To make PAM work with Cura you need to install a post processing plugin
+To make adaptive meshing work with Cura you need to install a post processing plugin
 
 1. in cura open menu `Help -> Show configuration folder`
 2. Copy the following and save it as `MeshPrintSize.py` in the `scripts` folder
