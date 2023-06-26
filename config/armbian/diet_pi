@@ -10,8 +10,8 @@ BASE_USER="pi"
 BASE_USER_PASSWORD="raspberry"
 
 # Image source
-#DOWNLOAD_URL_CHECKSUM="https://mirror-eu-de1.armbian.airframes.io/dl/aml-s9xx-box/archive/Armbian_23.02.2_Aml-s9xx-box_bullseye_current_6.1.11.img.xz.sha"
-DOWNLOAD_URL_IMAGE="https://dietpi.com/downloads/images/DietPi_OdroidC2-ARMv8-Bookworm.7z"
+#DOWNLOAD_URL_CHECKSUM="https://martoo.myqnapcloud.com/share.cgi?ssid=daf89e3e1d8b4514af1d6719e29fa9c5"
+DOWNLOAD_URL_IMAGE="https://martoo.myqnapcloud.com/share.cgi?ssid=b5acd12eeeb44fa585789da646e6c909&openfolder=forcedownload&ep=&_dc=1687784897878&fid=b5acd12eeeb44fa585789da646e6c909"
 
 # export Variables
 export BASE_ARCH
