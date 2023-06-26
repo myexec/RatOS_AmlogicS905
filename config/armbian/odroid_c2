@@ -10,8 +10,8 @@ BASE_USER="pi"
 BASE_USER_PASSWORD="raspberry"
 
 # Image source
-DOWNLOAD_URL_CHECKSUM="https://redirect.armbian.com/odroidc2/Jammy_current.sha"
-DOWNLOAD_URL_IMAGE="https://redirect.armbian.com/odroidc2/Jammy_current"
+DOWNLOAD_URL_CHECKSUM="https://mirrors.netix.net/armbian/dl/odroidc2/archive/Armbian_23.5.1_Odroidc2_jammy_current_6.1.30.img.xz.sha"
+DOWNLOAD_URL_IMAGE="https://imola.armbian.com/dl/odroidc2/archive/Armbian_23.5.1_Odroidc2_jammy_current_6.1.30.img.xz"
 
 # export Variables
 export BASE_ARCH
