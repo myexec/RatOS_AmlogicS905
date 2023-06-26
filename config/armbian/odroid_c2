@@ -8,8 +8,8 @@ BASE_USER="pi"
 BASE_USER_PASSWORD="raspberry"
 
 # Image source
-DOWNLOAD_URL_CHECKSUM="https://mirrors.netix.net/armbian/dl/odroidc2/archive/Armbian_23.5.1_Odroidc2_jammy_current_6.1.30.img.xz.sha"
-DOWNLOAD_URL_IMAGE="https://imola.armbian.com/dl/odroidc2/archive/Armbian_23.5.1_Odroidc2_jammy_current_6.1.30.img.xz"
+DOWNLOAD_URL_CHECKSUM="https://armbian.astra.in.ua/odroidc2/archive/Armbian_23.5.1_Odroidc2_jammy_current_6.1.30_xfce_desktop.img.xz.sha"
+DOWNLOAD_URL_IMAGE="https://armbian.astra.in.ua/odroidc2/archive/Armbian_23.5.1_Odroidc2_jammy_current_6.1.30_xfce_desktop.img.xz"
 
 # export Variables
 export BASE_ARCH
