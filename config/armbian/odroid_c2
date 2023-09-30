@@ -10,8 +10,8 @@ BASE_USER="pi"
 BASE_USER_PASSWORD="raspberry"
 
 # Image source
-DOWNLOAD_URL_CHECKSUM="https://imola.armbian.com/archive/odroidc2/archive/Armbian_23.02.1_Odroidc2_bullseye_current_6.1.14.img.xz.sha"
-DOWNLOAD_URL_IMAGE="https://imola.armbian.com/archive/odroidc2/archive/Armbian_23.02.1_Odroidc2_bullseye_current_6.1.14.img.xz"
+DOWNLOAD_URL_CHECKSUM="https://mirrors.netix.net/armbian/dl/odroidc2/archive/Armbian_23.8.1_Odroidc2_bookworm_current_6.1.50.img.xz.sha"
+DOWNLOAD_URL_IMAGE="https://armbian.systemonachip.net/dl/odroidc2/archive/Armbian_23.8.1_Odroidc2_bookworm_current_6.1.50.img.xz"
 
 # export Variables
 export BASE_ARCH
